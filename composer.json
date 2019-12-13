@@ -1,0 +1,18 @@
+{
+    "name": "etsylib/etsysdk",
+    "description": "php etsy-api sdk for etsy apps",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Tekrajs",
+            "email": "shrestharj64@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Etsylib\\Etsysdk\\": "src"
+        }
+    }
+}
